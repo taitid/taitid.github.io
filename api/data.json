@@ -19,7 +19,15 @@
     "status": "On time",
     "time": "12:05"
 }, {
+    "title": "Malta to Ashburton",
+    "status": "On time",
+    "time": "12:15"
+}, {
+    "title": "Malta to Las Vegas",
+    "status": "On time",
+    "time": "12:35"
+}, {
     "title": "Malta to Paris",
     "status": "Delayed",
-    "time": "12:35"
+    "time": "12:55"
 }]
